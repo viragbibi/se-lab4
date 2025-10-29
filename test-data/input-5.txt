@@ -1,0 +1,3 @@
+GT4500,10,0,10,0
+# Try to fire with ALL mode
+TORPEDO,ALL

@@ -1,0 +1,6 @@
+# Create a ship with full torpedo stores
+GT4500,10,0,10,0
+# First shot - primary
+TORPEDO,SINGLE
+# Second shot - secondary
+TORPEDO,SINGLE
