@@ -1,0 +1,2 @@
+SUCCESS  # <- GT4500 created successfully
+SUCCESS  # <- TORPEDO fired from primary store
