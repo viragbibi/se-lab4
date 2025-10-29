@@ -1,0 +1,3 @@
+GT4500,10,1,10,0
+# Try SINGLE shot - primary should fail, secondary not used
+TORPEDO,SINGLE

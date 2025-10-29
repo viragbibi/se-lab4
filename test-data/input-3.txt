@@ -1,0 +1,4 @@
+# Create ship where primary store is empty, secondary full
+GT4500,0,0,10,0
+# Try firing a single torpedo - should use secondary
+TORPEDO,SINGLE
